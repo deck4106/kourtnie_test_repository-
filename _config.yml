@@ -8,9 +8,9 @@
 # url is your gh-pages base, following the pattern: username.github.io
 url: https://deck4106.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /kourtnie_test_repository
+baseurl: /kourtnie_test_repository-
 # repository is the github repository's full url
-repository: https://github.com/deck4106/kourtnie_test_repository
+repository: https://github.com/deck4106/kourtnie_test_repository-
 
 
 ##########
